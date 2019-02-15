@@ -42,8 +42,8 @@ if __name__ == "__main__":
 	sns_plot.savefig("bootstrap_confidence.pdf", bbox_inches='tight')
 
 
-	#print ("Mean: %f")%(np.mean(data))
-	#print ("Var: %f")%(np.var(data))
+	print ("Mean: %f")%(np.mean(data))
+	print ("Var: %f")%(np.var(data))
 	
 
 
