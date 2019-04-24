@@ -1,0 +1,6 @@
+A) Please be sure to have graphviz installed.
+B) Please change in every .py at line 68 the path. 
+   You should write the path where the 3 .csv are 
+   located in your computer.
+C) Link to github:
+   https://github.com/OscarAguilarUribe/ce888labs
